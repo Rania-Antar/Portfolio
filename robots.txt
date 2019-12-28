@@ -1,0 +1,5 @@
+User-Agent: * 
+Disallow: /intranet/ 
+Disallow: /
+Allow: /*.css?* 
+Sitemap: https://raniaantar.netlify.com/sitemap.xml
